@@ -31,7 +31,7 @@ avatar: "/assets/img/avatar-icon.png"
 navbar-links:
 
   Organization: "organization"
-  Paricipate: "participate"
+  Participate: "participate"
   Dates: "dates"
   Agenda: "agenda"
   Code of Conduct: "code-of-conduct"
