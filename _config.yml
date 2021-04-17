@@ -30,8 +30,9 @@ avatar: "/assets/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
 
-  About: "about"
+  Organization: "organization"
   Paricipate: "participate"
+  Dates: "dates"
   Agenda: "agenda"
   Code of Conduct: "code-of-conduct"
 

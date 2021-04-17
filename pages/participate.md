@@ -12,7 +12,9 @@ We invite submissions for the 2021 US-RSE Virtual Workshop to be held virtually 
 - **Talks**: 15 min presentations plus 5 minute questions. Please submit abstracts of no more than 500 words.
 - **Breakout discussion topics**: topics to be discussed by participants in breakout sessions. This can be anything of interest to the community, such as proposals for new working groups, initiatives within the community, or issues related to the RSE profession. Please submit a short summary (no more than 200 words) about the suggested topic, questions to be discussed, and envisioned outcomes of the breakout session.
 
-**Submission deadline is May 3, 2021, 11:59 ET**. Submission instructions will follow shortly.
+**Submission:** Please submit your abstracts via [EasyChair](https://easychair.org/my/conference?conf=usrsevw2021).
+
+**Deadline:** May 3, 2021, 11:59 ET.
 
 
 ## Call for Reviewers
@@ -22,3 +24,7 @@ We are looking for reviewers for the 2021 US-RSE Virtual Workshop. If you are in
 **Application form**: [https://forms.gle/ECqWTwnVoVKMVwYHA](https://forms.gle/ECqWTwnVoVKMVwYHA)
 
 **Questions?** Email [contact@us-rse.org](mailto:contact@us-rse.org).
+
+## Registration
+
+Attendance is free of charge but registration will be required. Registration information will be available as we get closer to the workshop dates.
