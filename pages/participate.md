@@ -14,7 +14,7 @@ We invite submissions for the 2021 US-RSE Virtual Workshop to be held virtually 
 
 **Submission:** Please submit your abstracts via [EasyChair](https://easychair.org/my/conference?conf=usrsevw2021).
 
-**Deadline:** May 3, 2021, 11:59 ET.
+**Deadline:** May 3, 2021, 11:59pm ET.
 
 
 ## Call for Reviewers
