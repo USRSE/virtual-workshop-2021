@@ -41,4 +41,4 @@ We are looking for reviewers for the 2021 US-RSE Virtual Workshop. If you are in
 <br>
 ## Registration
 
-Attendance is free of charge but registration will be required. Registration information will be available as we get closer to the workshop dates.
+Registration is now open! Please see our [registration page](https://forms.gle/P31PaQykLWqe1MKm8) for more info.
