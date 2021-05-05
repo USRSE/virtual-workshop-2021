@@ -15,7 +15,7 @@ Note: all times ET!
 
 | Time (ET) | Session Title |
 | ------ | ----- |
-| 1:00 - 4:00 |  Day One Sessions |
+| 1:00 PM - 4:00 PM |  Day One Sessions |
 
 <br>
 
@@ -23,4 +23,4 @@ Note: all times ET!
 
 | Time (ET) | Session Title |
 | ------ | ----- |
-| 1:00 - 4:00 |  Day Two Sessions |
+| 1:00 PM - 4:00 PM |  Day Two Sessions |

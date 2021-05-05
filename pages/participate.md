@@ -14,7 +14,11 @@ We invite submissions for the 2021 US-RSE Virtual Workshop to be held virtually 
 
 ### Submission
 
-Please submit your abstracts via [EasyChair](https://easychair.org/my/conference?conf=usrsevw2021).
+**Submissions are now closed.**
+
+If you want to check on your previously submitted abstract, please login to [EasyChair](https://easychair.org/).
+
+<!-- Please submit your abstracts via [EasyChair](https://easychair.org/my/conference?conf=usrsevw2021). -->
 
 ### Deadlines
 
@@ -34,7 +38,9 @@ If you decide to submit a breakout discussion topic shortly before the workshop 
 
 We are looking for reviewers for the 2021 US-RSE Virtual Workshop. If you are interested in becoming a reviewer, please fill out the following form by May 3, 2021. Each reviewer will be assigned 2 to 3 submissions to review with about a week time to complete the reviews. Submissions are abstracts of 200 words or 500 words, depending on whether authors submit for presentations or breakout sessions.
 
-**Application form**: [https://forms.gle/ECqWTwnVoVKMVwYHA](https://forms.gle/ECqWTwnVoVKMVwYHA)
+**Applications are no longer accepted at this point.**
+
+<!-- **Application form**: [https://forms.gle/ECqWTwnVoVKMVwYHA](https://forms.gle/ECqWTwnVoVKMVwYHA) -->
 
 **Questions?** Email [contact@us-rse.org](mailto:contact@us-rse.org).
 

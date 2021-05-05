@@ -22,4 +22,15 @@ permalink: /organization/
 
 # Reviewers
 
-See our [Call for Reviewers]({{site.baseurl}}/participate#call-for-reviewers) to become a reviewer.
+- Morteza Ansarinia (Max Planck Institute for Human Cognitive and Brain Systems; University of Luxembourg)
+- Shafaq Chaudhry (University of Central Florida)
+- Neal Davis (University of Illinois—Computer Science)
+- Jason M. Gates (Sandia National Laboratories)
+- Rohit Goswami (University of Iceland)
+- Rinku Gupta (Argonne National Laboratory)
+- Kaveh Karimi Asli (National Center for Supercomupting Applications)
+- Naeem Khoshnevis (Harvard University)
+- Jesse McGaha (Oak Ridge National Lab)
+- Reed Milewicz (Sandia National Laboratories)
+- Natalie Meyers (University of Notre Dame)
+- Mahmood M. Shad (Harvard University)
