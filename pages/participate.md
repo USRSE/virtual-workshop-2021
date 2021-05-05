@@ -14,23 +14,22 @@ We invite submissions for the 2021 US-RSE Virtual Workshop to be held virtually 
 
 ### Submission
 
-**Submissions are now closed.**
 
-If you want to check on your previously submitted abstract, please login to [EasyChair](https://easychair.org/).
+**Talks:** Talk Submissions are now closed. If you want to check on your previously submitted a talk abstract, please login to [EasyChair](https://easychair.org/).
 
-<!-- Please submit your abstracts via [EasyChair](https://easychair.org/my/conference?conf=usrsevw2021). -->
+**Breakout discussion topics:** Please submit Ad-hoc Discussion Topics [here](https://easychair.org/my/conference?conf=usrsevw2021). Reviewed Discussion Topics cannot be submitted any longer.
 
 ### Deadlines
 
 **Talks:** May 3, 2021, 11:59 PM ET.
 
 **Breakout discussion topics**:  
-There are two ways to propose a topic for a breakout discussion. You can submit an abstract either by May 3 or shortly before the workshop.
+There are two ways to propose a topic for a breakout discussion.
 
 - **Reviewed Discussion Topics:** due May 3, 2021, 11:59 PM ET  
 Abstracts submitted by May 3 will be included in the general review process and accepted abstracts will be guaranteed to be part of the breakout discussion session on May 27.
-- **Ad-Hoc Discussion Topics:** due shortly before the workshop  
-If you decide to submit a breakout discussion topic shortly before the workshop (information about specific dates and processes will follow), we ask you to additionally pitch your topic to the workshop participants on May 24. Participants will then vote on all pitched topics and the ones with the most votes will be included in the breakout discussion session on May 27.
+- **Ad-Hoc Discussion Topics:** submitted after May 3.  
+If you decide to submit a breakout discussion topic after May 3, we ask you to additionally pitch your topic to the workshop participants on May 24. Participants will then vote on all pitched topics and the ones with the most votes will be included in the breakout discussion session on May 27.
 
 
 <br>
