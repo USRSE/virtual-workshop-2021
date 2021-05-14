@@ -28,19 +28,35 @@ Moderator: Sandra Gesing
 </tr>
 <tr>
   <td style="vertical-align: top;"> 1:15 PM</td>
-  <td><i>Talk</i><br> <b>Developing an Integrated, Interdisciplinary RSE Department at Sandia National Laboratories</b> <br>Reed Milewicz, James Willenbring and Dena Vigil</td>
+  <td>
+    <i>Talk</i><br>
+    <b>Developing an Integrated, Interdisciplinary RSE Department at Sandia National Laboratories</b> <br>
+    Reed Milewicz, James Willenbring and Dena Vigil
+  </td>
 </tr>
 <tr>
   <td style="vertical-align: top;">1:30 PM</td>
-  <td><i>Talk</i> <br> <b>Help! I’m a Research Software Manager!</b> <br> Jonathan Dursi</td>
+  <td>
+    <i>Talk</i> <br>
+    <b>Help! I’m a Research Software Manager!</b> <br>
+    Jonathan Dursi
+  </td>
 </tr>
 <tr>
   <td style="vertical-align: top;">1:45 PM</td>
-  <td><i>Talk</i> <br> <b>Towards a Culture of Continuous Improvement within RSE Teams</b> <br> Derek Trumbo and Reed Milewicz</td>
+  <td>
+    <i>Talk</i> <br>
+    <b>Towards a Culture of Continuous Improvement within RSE Teams</b> <br>
+    Derek Trumbo and Reed Milewicz
+  </td>
 </tr>
 <tr>
   <td style="vertical-align: top;">2:00 PM</td>
-  <td><i>Talk</i> <br> <b>Collaborative Container Modules with Singularity Registry HPC</b> <br> Vanessa Sochat</td>
+  <td>
+    <i>Talk</i> <br>
+    <b>Collaborative Container Modules with Singularity Registry HPC</b> <br>
+    Vanessa Sochat
+  </td>
 </tr>
 <tr>
   <td>2:15 PM</td>
@@ -48,19 +64,35 @@ Moderator: Sandra Gesing
 </tr>
 <tr>
   <td style="vertical-align: top;">2:30 PM</td>
-  <td><i>Talk</i> <br> <b>Refactoring Researcher-Developed Statistical R Packages: Technical Details and Challenges</b> <br> Naeem Khoshnevis and Mahmood Mohammadi Shad</td>
+  <td>
+    <i>Talk</i> <br>
+    <b>Refactoring Researcher-Developed Statistical R Packages: Technical Details and Challenges</b> <br>
+    Naeem Khoshnevis and Mahmood Mohammadi Shad
+  </td>
 </tr>
 <tr>
   <td style="vertical-align: top;">2:45 PM</td>
-  <td><i>Talk</i> <br> <b>Spack Configuration Manager: Automating Toolchain Installations</b> <br> Joe Frye, Miranda Mundt, Henry Swantner and Jon Pellegrini</td>
+  <td>
+    <i>Talk</i> <br>
+    <b>Spack Configuration Manager: Automating Toolchain Installations</b> <br>
+    Joe Frye, Miranda Mundt, Henry Swantner and Jon Pellegrini
+  </td>
 </tr>
 <tr>
   <td style="vertical-align: top;">3:00 PM</td>
-  <td><i>Talk</i> <br> <b>LoadEnv: Consistently Loading Supported Environments Across Machines</b> <br> Jason Gates, William Mclendon, Josh Braun and Evan Harvey</td>
+  <td>
+    <i>Talk</i> <br>
+    <b>LoadEnv: Consistently Loading Supported Environments Across Machines</b> <br>
+    Jason Gates, William Mclendon, Josh Braun and Evan Harvey
+  </td>
 </tr>
 <tr>
   <td style="vertical-align: top;">3:15 PM</td>
-  <td><i>Talk</i> <br> <b>Logger: A Tool for Keeping Track of Python's Interactions with the Shell</b> <br> David Collins, Josh Braun and Jason Gates</td>
+  <td>
+    <i>Talk</i> <br>
+    <b>Logger: A Tool for Keeping Track of Python's Interactions with the Shell</b> <br>
+    David Collins, Josh Braun and Jason Gates
+  </td>
 </tr>
 <tr>
   <td>3:30 PM</td>
