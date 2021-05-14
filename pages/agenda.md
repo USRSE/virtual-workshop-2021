@@ -173,7 +173,7 @@ Moderator: Julia Damerow
 <tr>
   <td style="vertical-align: top;">2:45 PM</td>
   <td>
-    <i>Breakout Session Track 1</i> <br>
+    <i>Breakout Discussion Session 1</i> <br>
     <ul>
       <li>
         <b>RSE Group Leader Breakout Discussion</b> <br>
@@ -192,7 +192,7 @@ Moderator: Julia Damerow
 <tr>
   <td style="vertical-align: top;">3:15 PM</td>
   <td>
-  <i>Breakout Session Track 2</i> <br>
+  <i>Breakout Discussion Session 2</i> <br>
   <ul>
     <li>
       <b>Building Effective Research Software Engineering Teams</b> <br>
