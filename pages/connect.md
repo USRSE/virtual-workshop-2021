@@ -6,7 +6,7 @@ permalink: /connect/
 excluded_in_search: exclude
 ---
 
-If you haven't yet registered, please do so [here](https://forms.gle/P31PaQykLWqe1MKm8).
+If you haven't yet registered, please do so [here](https://forms.gle/P31PaQykLWqe1MKm8). Please do not share these details on Twitter or elsewhere. Instead, encourage people to register :)
 
 ## Day 1, May 24: Zoom Details
 
