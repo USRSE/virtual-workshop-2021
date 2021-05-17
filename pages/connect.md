@@ -3,6 +3,7 @@ layout: page
 title: Workshop Connection Details
 description: Workshop Connection Details
 permalink: /connect/
+excluded_in_search: exclude
 ---
 
 If you haven't yet registered, please do so [here](https://forms.gle/P31PaQykLWqe1MKm8).
