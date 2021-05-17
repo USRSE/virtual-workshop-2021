@@ -112,13 +112,12 @@ Moderator: Sandra Gesing
 
 
 
-| Time (ET) | Session Title |
-| ------ | ----- |
-| 1:00 PM - 4:00 PM |  Day One Sessions |
 
 <br>
 
-## Day 2 - Thursday, May 27
+## Day 2 - Thursday, May 27, 2021 1 - 4 PM ET
+
+Moderator: Julia Damerow
 
 <table>
 <tr>
