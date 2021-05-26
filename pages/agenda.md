@@ -140,8 +140,8 @@ Moderator: Julia Damerow
   <td style="vertical-align: top;">1:30 PM</td>
   <td>
     <i>Talk</i> <br>
-    <b><a href="{{ site.baseurl }}/abstracts#sustainability-as-a-key-enabler-for-rse-paths-forward">Sustainability as a Key Enabler for RSE Paths Forward</a></b> <br>
-    Michael Zentner
+      <b><a href="{{ site.baseurl }}/abstracts#presqt-services---a-path-forward-for-connecting-platforms-while-increasing-quality-and-fairness-of-data-and-software">PresQT Services - A Path Forward for Connecting Platforms While Increasing Quality and FAIRness of Data and Software</a></b> <br>
+    Sandra Gesing, Natalie Meyers, Rick Johnson and John Wang
   </td>
 </tr>
 <tr>
@@ -164,8 +164,8 @@ Moderator: Julia Damerow
   <td style="vertical-align: top;">2:15 PM</td>
   <td>
     <i>Talk</i> <br>
-    <b><a href="{{ site.baseurl }}/abstracts#presqt-services---a-path-forward-for-connecting-platforms-while-increasing-quality-and-fairness-of-data-and-software">PresQT Services - A Path Forward for Connecting Platforms While Increasing Quality and FAIRness of Data and Software</a></b> <br>
-    Sandra Gesing, Natalie Meyers, Rick Johnson and John Wang
+    <b><a href="{{ site.baseurl }}/abstracts#sustainability-as-a-key-enabler-for-rse-paths-forward">Sustainability as a Key Enabler for RSE Paths Forward</a></b> <br>
+    Michael Zentner
   </td>
 </tr>
 <tr>
