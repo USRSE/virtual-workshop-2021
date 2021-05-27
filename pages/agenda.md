@@ -182,7 +182,7 @@ Moderator: Julia Damerow
         Ian Cosden
       </li>
       <li>
-        <b>Finishing RSE White Paper</b><br>
+        <b>< href="{{ site.baseurl }}/abstracts#finishing-rse-white-paper">Finishing RSE White Paper</a></b><br>
         Julia Damerow, Chris Hill
       </li>
       <li>
