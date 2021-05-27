@@ -215,7 +215,7 @@ Potential topics for discussion include:
 
 --- 
 
-### Finishing RSE White Paper
+### Finishing the RSE White Paper
 
 *Julia Damerow, Chris Hill*
 
