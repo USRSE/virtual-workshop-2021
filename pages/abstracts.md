@@ -213,6 +213,8 @@ Potential topics for discussion include:
 * What questions do you have for your peers?
 * What resources or information would help you as an RSE Group Leader?
 
+--- 
+
 ### Finishing RSE White Paper
 
 *Julia Damerow, Chris Hill*
