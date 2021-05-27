@@ -221,3 +221,25 @@ Potential topics for discussion include:
 
 In the March 2021 Community Call, we discussed the topic “Changing how Academia views RSEs.” We have written up the discussion in a white paper draft. However, before we can publish the whitepaper, there are a few more discussion points that should be added and we need to decide how and where the whitepaper should be published. In this breakout discussion, we would like to discuss the missing points to be added to the draft and plan the next steps to get the whitepaper published.
 
+--- 
+
+### What else can US-RSE do for the community?
+
+*Sandra Gesing*
+
+The US-RSE Association is centered around three main goals: (1) supporting the community, (2) promoting RSEs’ impact on research and (3) providing useful resources to multiple demographics. Our current activities include:
+* Outreach via Slack, email, website, Twitter, newsletters - the job board is an example for a successful implementation of content
+* Working groups on Diversity, Equity and Inclusion, Training and Education, Website
+* Events include community calls, workshops, DEI speaker series, DEI book club, Annual General Meetings
+* RSE podcast guided by Vanessa Sochat
+* Financial structure
+* Presenting US-RSE at related events
+* Writing of white papers
+* Participation in RSE International with event and survey
+* Steering committee election per year (staggered to secure continuity)
+
+The community growth is encouraging that these activities have an impact. There is always room for improvement, of course!
+
+What are activities or topics that are missing? What would be additional activities or content for the website that is desired? Should there be additional events? Is there something we totally miss out on?
+
+
