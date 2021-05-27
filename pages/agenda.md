@@ -202,7 +202,6 @@ Moderator: Julia Damerow
     </li>
     <li>
       <b><a href="{{ site.baseurl }}/abstracts#what-else-can-us-rse-do-for-the-community">What else can US-RSE do for the community?</a></b> <br>
-      <b>What else can US-RSE do for the community?</b><br>
       Sandra Gesing
     </li>
     <li>
