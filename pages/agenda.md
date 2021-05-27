@@ -185,9 +185,6 @@ Moderator: Julia Damerow
         <b><a href="{{ site.baseurl }}/abstracts#finishing-rse-white-paper">Finishing the RSE White Paper</a></b><br>
         Julia Damerow, Chris Hill
       </li>
-      <li>
-        <b>Additional ad-hoc breakout topics</b>
-      </li>
     </ul>
   </td>
 </tr>
@@ -203,9 +200,6 @@ Moderator: Julia Damerow
     <li>
       <b><a href="{{ site.baseurl }}/abstracts#what-else-can-us-rse-do-for-the-community">What else can US-RSE do for the community?</a></b> <br>
       Sandra Gesing
-    </li>
-    <li>
-      <b>Additional ad-hoc breakout topics</b>
     </li>
   </ul>
   </td>
