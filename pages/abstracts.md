@@ -212,3 +212,10 @@ Potential topics for discussion include:
 * What would you consider a recent success?
 * What questions do you have for your peers?
 * What resources or information would help you as an RSE Group Leader?
+
+### Finishing RSE White Paper
+
+*Julia Damerow, Chris Hill*
+
+In the March 2021 Community Call, we discussed the topic “Changing how Academia views RSEs.” We have written up the discussion in a white paper draft. However, before we can publish the whitepaper, there are a few more discussion points that should be added and we need to decide how and where the whitepaper should be published. In this breakout discussion, we would like to discuss the missing points to be added to the draft and plan the next steps to get the whitepaper published.
+
