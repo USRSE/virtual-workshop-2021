@@ -8,8 +8,10 @@ permalink: /agenda/
 
 The full list of abstracts for all accepted talks and breakout discussions can be found [here]({{ site.baseurl }}/abstracts).
 
-The videos of the talks are available on YouTube
+The videos of the talks are available on YouTube.
+
 Day 1: [https://youtu.be/P32RYY_2V7w]{https://youtu.be/P32RYY_2V7w}
+
 Day 2: [https://youtu.be/b6Cv744k8YM]{https://youtu.be/b6Cv744k8YM}
 
 Note: all times ET!
